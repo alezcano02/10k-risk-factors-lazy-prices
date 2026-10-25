@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+__pycache__/
+data/item1a/
+data/passage_embeddings.npy
+*.log

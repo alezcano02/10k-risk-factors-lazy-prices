@@ -1,0 +1,13 @@
+pandas
+numpy
+pyarrow
+requests
+beautifulsoup4
+lxml
+yfinance
+scikit-learn
+sentence-transformers
+statsmodels
+matplotlib
+seaborn
+jupyter
